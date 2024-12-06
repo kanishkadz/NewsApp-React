@@ -6,7 +6,7 @@ const NewsItem = ({title, description, src, url}) => {
             <img src={src} className="card-img-top" style={{height:"200px", width:"360px"}} />
             <div className="card-body">
                 <h5 className="card-title">{title.slice(0,50)}</h5>
-                <p className="card-text">{description}</p>
+                <p className="card-text">{description?description.slice(0,90):"Current Event"}</p>
                 <a href={url} className="btn btn-primary">Read More </a>
             </div>
         </div>
