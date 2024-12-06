@@ -2,7 +2,9 @@ import React from 'react'
 
 const NewsBoard = () => {
   return (
-    <div>NewsBoard</div>
+    <div>
+        <h2 className='text-center'>Latest <span className='badge bg-danger'>News</span></h2>
+    </div>
   )
 }
 
