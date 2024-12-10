@@ -1,10 +1,10 @@
-#🌟 News App
+# 🌟 News App
 
 This project is a News App developed using React, designed to deliver up-to-date news content with a clean and user-friendly interface. It provides real-time news updates, responsive design, and easy navigation to enhance the user experience.
 
 ---
 
-##📱 Features
+## 📱 Features
 
 - **Live News Updates:** Fetches real-time news from external APIs for the latest information.
 - **Categorized News:** Browse through categories such as Technology, Sports, Business, Entertainment, and more.
@@ -15,7 +15,7 @@ This project is a News App developed using React, designed to deliver up-to-date
 
 ---
 
-##🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - **Framework:** React
 - **Language:** JavaScript
